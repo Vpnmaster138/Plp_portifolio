@@ -208,7 +208,7 @@
                 <p><i class="fas fa-envelope"></i> <a href="mailto:jafethfilimon321@gmail.com">jafethfilimon321@gmail.com</a></p>
                 <p><i class="fas fa-phone"></i> <a href="tel:+255623647378">+255 623 647 378</a></p>
                 <p><i class="fab fa-github"></i> <a href="https://github.com/yourusername" target="_blank">GitHub</a></p>
-                <p><i class="fab fa-linkedin"></i> <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></p>
+                <p><i class="fab fa-linkedin"></i> <a href="https:https://www.linkedin.com/in/jafeth-filimon-247888373" target="_blank">LinkedIn</a></p>
             </div>
         </div>
     </section>
